@@ -1,5 +1,5 @@
 #D-Properties
-Yet another D-language implementation of properties, but this time as tuples.
+Yet another D-language implementation of properties, but this time using tuples.
 
 #Install
 
@@ -13,4 +13,4 @@ Look at the example written in the `main.d` file.
 
 D-Properties is Open Software distributed under the Boost Software License, Version 1.0.
 
-Copyright (c) 2013-2014 Ulf Akerstedt-Inoue, all rights reserved.
+Copyright (c) 2013-2014 Ulf Akerstedt-Inoue. All rights reserved.
